@@ -16,13 +16,9 @@ O projeto explora como as **metatags** funcionam na estrutura de uma página web
 
 
 
-## 🎀 Tecnologias utilizadas
-
-| Tecnologia | Descrição |
-|---|---|
-| **HTML5** | Estrutura e metatags da página |
-| **Open Graph** | Metadados para redes sociais |
-| **SEO** | Otimização para mecanismos de busca |
+## 🛠️ Tecnologias Utilizadas
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
