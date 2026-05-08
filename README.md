@@ -5,7 +5,7 @@ Página de pesquisa e estudo sobre **Meta Tags em HTML** — um tema fundamental
 O projeto explora como as **metatags** funcionam na estrutura de uma página web, desde configurações básicas de idioma e charset até tags avançadas de **Open Graph** para compartilhamento em redes sociais.
 
 🔗 **[Acesse o projeto ao vivo](https://liviahelenas.github.io/liviaHelenaMetadados/)**
- - ps: **Arquivo estará sem estilização em CSS.**  Para visualizar melhor as propriedades Open Graph e Metatags de descrição, contidas no código fonte HTML, que podem ser percebidas em mecanismos de compartilhamento e busca, compartilhe o link e antes de enviar espere alguns segundos!
+ - ps: **Arquivo estará sem estilização em CSS.**  Para visualizar melhor as propriedades Open Graph e Metatags de descrição, contidas no código fonte HTML, que podem ser percebidas em mecanismos de compartilhamento e busca, compartilhe o link.
 
 
 
